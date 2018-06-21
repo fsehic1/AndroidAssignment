@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WhatToWatchApp</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="movie_title">Movie title</string>
+    <string name="todo">TODO</string>
+    <string name="my_search">My Search</string>
+    <string name="what_to_watch">What to watch</string>
+    <string name="popularity">Popularity:</string>
+    <string name="release_date">Release date:</string>
+    <string name="first_air_date">First air date:</string>
+</resources>
